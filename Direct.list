@@ -17,7 +17,7 @@ DOMAIN-KEYWORD,cursor
 
 IP-CIDR,47.75.152.35/32,no-resolve
 IP-CIDR,39.105.18.13/32,no-resolve
-IP-CIDR,10.28.11.0/24,no-resolve
+IP-CIDR,10.101.204.0/24,no-resolve
 IP-CIDR,10.28.151.0/24,no-resolve
 
 
