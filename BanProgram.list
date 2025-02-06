@@ -10,3 +10,6 @@ DOMAIN-SUFFIX,telemetry.sublimehq.com
 IP-CIDR,45.55.255.55/32,no-resolve
 IP-CIDR,45.55.255.55/32,no-resolve
 
+#listary
+DOMAIN-SUFFIX,listary.com
+
