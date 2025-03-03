@@ -9,7 +9,11 @@ DOMAIN-SUFFIX,sinbreak.com
 DOMAIN-SUFFIX,nvidia.com
 DOMAIN-SUFFIX,cursor.sh
 DOMAIN-SUFFIX,cloudflarestorage.com
-
+DOMAIN-SUFFIX,battlenet.com.cn
+DOMAIN-SUFFIX,wotgame.cn
+DOMAIN-SUFFIX,wggames.cn
+DOMAIN-SUFFIX,wowsgame.cn
+DOMAIN-SUFFIX,wargaming.net
 
 DOMAIN-KEYWORD,oray
 DOMAIN-KEYWORD,sunlogin
